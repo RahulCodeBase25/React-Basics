@@ -2,7 +2,6 @@
   "name": "react-bloodlines",
   "version": "1.0.0",
   "description": "lets do proper learning this time",
-  "main": "App.js",
   "scripts": {
     "test": "jest"
   },
@@ -18,5 +17,12 @@
   "homepage": "https://github.com/RahulCodeBase25/React-Basics#readme",
   "devDependencies": {
     "parcel": "^2.15.4"
-  }
+  },
+  "dependencies": {
+    "react": "^19.1.0"
+  },
+  "browserlist":{
+   "version1": "last 2 Chrome version" ,
+   "version2": "last 2 Firefox version"
+}
 }
